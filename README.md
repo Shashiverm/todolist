@@ -2,6 +2,7 @@
 
 A simple and efficient Todo application.
 
+[Live](https://youtu.be/pBxGGNO5hEw?si=C2GNx63wPvEZMDov)
 ## UI Sample Images
 
 <div align="center">
